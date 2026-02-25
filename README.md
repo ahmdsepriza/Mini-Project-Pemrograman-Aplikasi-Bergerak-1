@@ -1,17 +1,13 @@
-# flutter_application_2
+# 📱 Aplikasi Pencatatan Produktivitas Harian
 
-A new Flutter project.
+Aplikasi mobile berbasis Flutter yang digunakan untuk mencatat dan mengelola aktivitas produktivitas harian. Pengguna dapat menambahkan, melihat, mengedit, dan menghapus data kegiatan dengan mudah melalui antarmuka yang sederhana dan user-friendly. Aplikasi ini dibuat untuk memenuhi tugas praktikum Pemrograman Aplikasi Bergerak (PAB) dengan menerapkan konsep CRUD dan navigasi multi-halaman.
 
-## Getting Started
+# Home Page
+<img width="491" height="882" alt="image" src="https://github.com/user-attachments/assets/dc979d8d-e7a0-4959-81ec-0082de86cc01" />
 
-This project is a starting point for a Flutter application.
+# Tambah Kegiatan
+<img width="491" height="882" alt="image" src="https://github.com/user-attachments/assets/a8556b1e-7baf-4fae-9033-6b88498afc46" />
 
-A few resources to get you started if this is your first Flutter project:
+# Daily Productivity
+<img width="493" height="875" alt="image" src="https://github.com/user-attachments/assets/37626500-45dc-4ee2-a851-5bcb5b30db0f" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
